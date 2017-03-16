@@ -1,31 +1,25 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
-@charset "utf-8";
-
+@charset  "utf-8";
 // Our variables
 $base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
+$base-font-size: 16px;
 $base-font-weight: 400;
-$small-font-size:  $base-font-size * 0.875;
+$small-font-size: $base-font-size * 0.875;
 $base-line-height: 1.5;
-
-$spacing-unit:     30px;
-
-$text-color:       #111;
+$spacing-unit: 30px;
+$text-color: #111;
 $background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
-
-$grey-color:       #828282;
+$brand-color: #2a7ae2;
+$grey-color: #828282;
 $grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
-
+$grey-color-dark: darken($grey-color, 25%);
 // Width of the content area
-$content-width:    800px;
-
-$on-palm:          600px;
-$on-laptop:        800px;
-
+$content-width: 800px;
+$on-palm: 600px;
+$on-laptop: 800px;
+$ask-dev-weekly-blue: rgb(174, 213, 250);
 // Minima also includes a mixin for defining media queries.
 // Use media queries like this:
 // @include media-query($on-palm) {
@@ -34,6 +28,24 @@ $on-laptop:        800px;
 //         padding-left: $spacing-unit / 2;
 //     }
 // }
+//
 
+header {
+    background-color: $ask-dev-weekly-blue;
+
+    .site-title {
+        img {
+            width: 200px;
+        }
+    }
+}
+
+.center-contents {
+    display: flex;
+    flex-direction: row;     /* make main axis horizontal (default setting) */
+    justify-content: center; /* center items horizontally, in this case */
+    align-items: center;     /* center items vertically, in this case */
+
+}
 // Import partials from the `minima` theme.
 @import "minima";
