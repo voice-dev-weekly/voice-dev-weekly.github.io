@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Voice Dev #1 - Welcome and Introduction"
+date:   2017-03-24 10:27:51 -0500
+categories: jekyll update
+---
 Welcome to our First Edition!
 
 We have created this newsletter to compile the most interesting things happening within the Voice Development community.
