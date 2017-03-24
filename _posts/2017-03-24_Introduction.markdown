@@ -26,13 +26,14 @@ Bezos believes games were a key part of the iPhone's early success.
 [XAPPmedia launches Progressive action](https://xappmedia.com/video-progressive-taps-xappmedia-first-google-action-insurance/)
 
 # Projects
-[New version of Bespoken Tools supports Google Cloud functions](https://bespoken.tools/blog/link_to_come.html)
+[New version of Bespoken Tools supports Google Cloud functions](https://bespoken.tools/blog/link_to_come.html)  
+Debug Google Home Actions written as Cloud Functions directly on your laptop.
 
 # Learn
-[Makers Academy Alexa series: How To Build An Alexa Skill With Ruby](https://developer.amazon.com/blogs/post/105df30e-9890-4a8c-9caf-5de1c8ff86cb/makers-academy-s-alexa-series-how-to-build-a-hello-world-skill-with-ruby)
-[Maker's Academy](http://www.makersacademy.com/)
+[Makers Academy Alexa series: How To Build An Alexa Skill With Ruby](https://developer.amazon.com/blogs/post/105df30e-9890-4a8c-9caf-5de1c8ff86cb/makers-academy-s-alexa-series-how-to-build-a-hello-world-skill-with-ruby)  
 
 [Guide to Creating Terse But Informative Interfaces](https://www.youtube.com/watch?v=0tq2FOZCyZw)
+By Tza Tza Tzu
 
 # Other Voices
 ["I can't live without my radio"](https://genius.com/Ll-cool-j-i-cant-live-without-my-radio-lyrics)
