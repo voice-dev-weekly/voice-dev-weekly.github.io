@@ -42,5 +42,5 @@ Debug Google Home Actions written as Cloud Functions directly on your laptop.
 By [Tsa Tsa Tzu](https://tsatsatzu.com)
 
 # Other Voices
-["I can't live without my radio"](https://genius.com/Ll-cool-j-i-cant-live-without-my-radio-lyrics)
+["I can't live without my radio"](https://www.youtube.com/watch?v=qqw2uby0dzc)
 -L.L. Cool J
