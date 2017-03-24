@@ -32,8 +32,8 @@ Debug Google Home Actions written as Cloud Functions directly on your laptop.
 # Learn
 [Makers Academy Alexa series: How To Build An Alexa Skill With Ruby](https://developer.amazon.com/blogs/post/105df30e-9890-4a8c-9caf-5de1c8ff86cb/makers-academy-s-alexa-series-how-to-build-a-hello-world-skill-with-ruby)  
 
-[Guide to Creating Terse But Informative Interfaces](https://www.youtube.com/watch?v=0tq2FOZCyZw)
-By Tza Tza Tzu
+[Guide to Creating Terse But Informative Interfaces](https://www.youtube.com/watch?v=0tq2FOZCyZw)  
+By [Tsa Tsa Tzu](https://tsatsatzu.com)
 
 # Other Voices
 ["I can't live without my radio"](https://genius.com/Ll-cool-j-i-cant-live-without-my-radio-lyrics)
