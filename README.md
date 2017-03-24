@@ -1,1 +1,1 @@
-The website for askdevweekly.com
+The website for voicedevweekly.com
