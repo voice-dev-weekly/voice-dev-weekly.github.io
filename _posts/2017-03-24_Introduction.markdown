@@ -20,7 +20,7 @@ http://googleslack.com/
 *Paywall* - interesting article about Jeff Bezos pushing Alexa team to bring more games to the platform. 
 Bezos believes games were a key part of the iPhone's early success.
 
-[AWS Lambdas Now Support NodeJS 6.10.0](https://aws.amazon.com/about-aws/whats-new/2017/03/aws-lambda-supports-node-js-6-10)
+[AWS Lambdas Now Support NodeJS 6.10.0](https://aws.amazon.com/about-aws/whats-new/2017/03/aws-lambda-supports-node-js-6-10)  
 And support for 0.10.42 is [going away](http://docs.aws.amazon.com/lambda/latest/dg/nodejs-prog-model-using-old-runtime.html) in Early 2017.
 
 [Alexa Now Available as An iOS App](https://www.amazon.com/gp/b?node=16383509011)
