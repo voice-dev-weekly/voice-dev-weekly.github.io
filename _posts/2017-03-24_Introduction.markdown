@@ -22,8 +22,13 @@ Bezos believes games were a key part of the iPhone's early success.
 
 [AWS Lambdas Now Support NodeJS 6.10.0](https://aws.amazon.com/about-aws/whats-new/2017/03/aws-lambda-supports-node-js-6-10)
 
+[Alexa Now Available as An iOS App](https://www.amazon.com/gp/b?node=16383509011)
+
 # Skills and Actions
 [XAPPmedia launches Progressive action](https://xappmedia.com/video-progressive-taps-xappmedia-first-google-action-insurance/)
+
+[NCAA March Madness](https://www.amazon.com/gp/product/B01N7VLHEG/)  
+Get scores and find out what games are on.
 
 # Projects
 [New version of Bespoken Tools supports Google Cloud functions](https://bespoken.tools/blog/link_to_come.html)  
